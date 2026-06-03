@@ -10,7 +10,7 @@ The recommendation engine uses text vectorization and cosine similarity to find 
 
 ## Application Preview
 
-![Movie Recommendation System](screenshots/movie-recommendation-system.png)
+![Movie Recommendation System](screenshots/movie-recommendation-system.jpeg)
 
 The application allows users to:
 
